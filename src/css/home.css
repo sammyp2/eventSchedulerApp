@@ -1,0 +1,21 @@
+.home-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh; /* Set the height to full viewport height */
+    background-color: #ffffff; /* Optional background color */
+  }
+  
+  .welcome-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    border: solid rgb(229, 49, 50);
+    background-color: rgb(234, 236, 233);
+    margin: auto;
+    height: 25%;
+    width: 100vw;
+  }

@@ -1,0 +1,57 @@
+.admin-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.admin-sidebar{
+display: flex;
+flex-direction: column;
+width: 20%;
+height: auto;
+justify-content:left;
+align-items:center;
+color: rgb(234, 236, 233);
+background-color: black;
+border:solid rgb(229, 49, 50)}
+
+.sidebar-input-container{
+    flex-direction: column;
+    justify-content: center;
+    border: solid rgb(234, 236, 233);
+    height:30px;
+    width: 200px;
+}
+
+.fill{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.property-edit-box{
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    color: rgb(234, 236, 233);
+    background-color: black;
+    border:solid rgb(229, 49, 50);
+    margin: auto;
+}
+.picture-box{
+    height:500px;
+    width: auto;
+}
+.input-container{
+    flex-direction: row;
+    justify-content: center;
+    border: solid rgb(229, 49, 50);
+    margin-top: 10px;
+    height:30px;
+    width: 500px;
+}

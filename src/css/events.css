@@ -1,0 +1,15 @@
+.events{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+  }
+  
+  .events-description{
+    font-weight: bold;
+  }
+  
+  .event-box{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
